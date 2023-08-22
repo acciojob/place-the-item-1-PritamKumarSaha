@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+.blocks{
+	height:100px;
+	width:100px;
+	background:red;
+	
+}
+.holder{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.green{
+	background-color:green;
+}
+.red{
+	background-color:red;
+}
+.blue{
+	background-color:blue;
+}
+.item{
+	display:flex;
+	flex-wrap:wrap;
+	gap:5px;
+}
+
+
+
+
